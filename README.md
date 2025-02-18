@@ -1,4 +1,3 @@
-Sure! Here's a basic README template you can use for your project’s GitHub repository. You can copy and paste it into a `README.md` file.
 
 ```markdown
 # ECG Data Visualization
