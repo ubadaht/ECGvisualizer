@@ -1,5 +1,4 @@
 
-```markdown
 # ECG Data Visualization
 
 This is a basic interactive tool to visualize and analyze ECG (electrocardiogram) data using Streamlit and Plotly. The app allows users to upload ECG data in `.mat` file format, apply filters, visualize the time-domain and frequency-domain representations of the ECG signal, and view basic signal statistics.
