@@ -26,7 +26,7 @@ This is a basic interactive tool to visualize and analyze ECG (electrocardiogram
 
 ```bash
 git clone https://github.com/ubadaht/ECGvisualizer.git
-cd ECG-Data-Visualization
+cd EcgVisualizer
 ```
 
 ### 2. Install dependencies
